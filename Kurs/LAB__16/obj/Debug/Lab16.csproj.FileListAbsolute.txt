@@ -1,0 +1,20 @@
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR16\LAB__16\bin\Debug\Lab16.exe.config
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR16\LAB__16\bin\Debug\Lab16.exe
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR16\LAB__16\bin\Debug\Lab16.pdb
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR16\LAB__16\obj\Debug\Lab16.csprojAssemblyReference.cache
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR16\LAB__16\obj\Debug\Lab16.Form1.resources
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR16\LAB__16\obj\Debug\Lab16.Properties.Resources.resources
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR16\LAB__16\obj\Debug\Lab16.csproj.GenerateResource.cache
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR16\LAB__16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR16\LAB__16\obj\Debug\Lab16.exe
+F:\флешка\ИМиИТ\2 курс\ТПрогр\LR16\LAB__16\obj\Debug\Lab16.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR16\LAB__16\obj\Debug\Lab16.csprojAssemblyReference.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR16\LAB__16\obj\Debug\Lab16.Form1.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR16\LAB__16\obj\Debug\Lab16.Properties.Resources.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR16\LAB__16\obj\Debug\Lab16.csproj.GenerateResource.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR16\LAB__16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR16\LAB__16\obj\Debug\Lab16.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR16\LAB__16\obj\Debug\Lab16.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR16\LAB__16\bin\Debug\Lab16.exe.config
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR16\LAB__16\bin\Debug\Lab16.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR16\LAB__16\bin\Debug\Lab16.pdb

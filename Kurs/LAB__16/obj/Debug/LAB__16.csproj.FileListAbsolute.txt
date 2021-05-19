@@ -1,0 +1,40 @@
+E:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\bin\Debug\LAB__16.exe.config
+E:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\bin\Debug\LAB__16.exe
+E:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\bin\Debug\LAB__16.pdb
+E:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.csprojAssemblyReference.cache
+E:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.Form1.resources
+E:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.Properties.Resources.resources
+E:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.csproj.GenerateResource.cache
+E:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.csproj.CoreCompileInputs.cache
+E:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.exe
+E:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.pdb
+D:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\bin\Debug\LAB__16.exe.config
+D:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\bin\Debug\LAB__16.exe
+D:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\bin\Debug\LAB__16.pdb
+D:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.csprojAssemblyReference.cache
+D:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.Form1.resources
+D:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.Properties.Resources.resources
+D:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.csproj.GenerateResource.cache
+D:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.csproj.CoreCompileInputs.cache
+D:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.exe
+D:\Технологии программирования\Лабы\Лаба_16\LAB__16\LAB__16\obj\Debug\LAB__16.pdb
+C:\Users\aalex\Desktop\LAB__16\LAB__16\bin\Debug\LAB__16.exe.config
+C:\Users\aalex\Desktop\LAB__16\LAB__16\bin\Debug\LAB__16.exe
+C:\Users\aalex\Desktop\LAB__16\LAB__16\bin\Debug\LAB__16.pdb
+C:\Users\aalex\Desktop\LAB__16\LAB__16\obj\Debug\LAB__16.csprojAssemblyReference.cache
+C:\Users\aalex\Desktop\LAB__16\LAB__16\obj\Debug\LAB__16.Form1.resources
+C:\Users\aalex\Desktop\LAB__16\LAB__16\obj\Debug\LAB__16.Properties.Resources.resources
+C:\Users\aalex\Desktop\LAB__16\LAB__16\obj\Debug\LAB__16.csproj.GenerateResource.cache
+C:\Users\aalex\Desktop\LAB__16\LAB__16\obj\Debug\LAB__16.csproj.CoreCompileInputs.cache
+C:\Users\aalex\Desktop\LAB__16\LAB__16\obj\Debug\LAB__16.exe
+C:\Users\aalex\Desktop\LAB__16\LAB__16\obj\Debug\LAB__16.pdb
+P:\4 семестр\Технологии программирования\Lab16\LAB__16\obj\Debug\LAB__16.csprojAssemblyReference.cache
+P:\4 семестр\Технологии программирования\Lab16\LAB__16\obj\Debug\Lab16.Form1.resources
+P:\4 семестр\Технологии программирования\Lab16\LAB__16\obj\Debug\Lab16.Properties.Resources.resources
+P:\4 семестр\Технологии программирования\Lab16\LAB__16\obj\Debug\LAB__16.csproj.GenerateResource.cache
+P:\4 семестр\Технологии программирования\Lab16\LAB__16\obj\Debug\LAB__16.csproj.CoreCompileInputs.cache
+P:\4 семестр\Технологии программирования\Lab16\LAB__16\bin\Debug\Lab16.exe.config
+P:\4 семестр\Технологии программирования\Lab16\LAB__16\bin\Debug\Lab16.exe
+P:\4 семестр\Технологии программирования\Lab16\LAB__16\bin\Debug\Lab16.pdb
+P:\4 семестр\Технологии программирования\Lab16\LAB__16\obj\Debug\Lab16.exe
+P:\4 семестр\Технологии программирования\Lab16\LAB__16\obj\Debug\Lab16.pdb
